@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Activity" />
+        <module name="dubbo" />
+        <module name="MyActivity" />
+        <module name="SearchEngines" />
+        <module name="Servlet" />
+        <module name="ShardingJdbc" />
+        <module name="SpringNew" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Activity" target="1.8" />
+      <module name="dubbo" target="1.8" />
+      <module name="MyActivity" target="1.8" />
+      <module name="SearchEngines" target="1.8" />
+      <module name="Servlet" target="1.8" />
+      <module name="ShardingJdbc" target="1.8" />
+      <module name="SpringBoot" target="1.8" />
+      <module name="SpringNew" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

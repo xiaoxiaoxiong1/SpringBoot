@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyActivity/MyActivity.iml" filepath="$PROJECT_DIR$/MyActivity/MyActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchEngines/SearchEngines.iml" filepath="$PROJECT_DIR$/SearchEngines/SearchEngines.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servlet/Servlet.iml" filepath="$PROJECT_DIR$/Servlet/Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShardingJdbc/ShardingJdbc.iml" filepath="$PROJECT_DIR$/ShardingJdbc/ShardingJdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringNew/SpringNew.iml" filepath="$PROJECT_DIR$/SpringNew/SpringNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo/dubbo.iml" filepath="$PROJECT_DIR$/dubbo/dubbo.iml" />
+    </modules>
+  </component>
+</project>
